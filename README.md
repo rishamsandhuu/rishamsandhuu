@@ -2,21 +2,20 @@
 
 # 🛠️ full-stack *builder.*
 
-`🟢 open to work` &nbsp;·&nbsp; `📍 ontario, canada` &nbsp;·&nbsp; `📱 android · ios · web` &nbsp;·&nbsp; `🤖 ai integrations`
-
 </div>
 
 ---
 
-i make cross-platform apps, ai tools, and real-world games. 🎮
+i make cross-platform apps, ai tools, and real-world games.
 comfortable across the whole stack. always shipping, always learning.
-probably have 3 terminals open right now. 🖥️
+probably have 3 terminals open right now. 
 
 ---
 
 ## ✦ selected work
 
-**[🪨 Pebble](https://github.com/rishamsandhuu/pebble)** &nbsp;·&nbsp; *cross-platform · elderly care*
+**[🪨 Pebble](https://github.com/rishamsandhuu/pebble)**  ·  *cross-platform · elderly care*
+
 > ↳ capstone project — built for the people who need it most 🤍
 
 Secure care platform for seniors, family & caregivers. SOS with live GPS, medications, appointments, voice-to-text. Role-based access, all in one app.
@@ -25,8 +24,7 @@ Secure care platform for seniors, family & caregivers. SOS with live GPS, medica
 
 ---
 
-**[💸 youre-in-debt](https://github.com/rishamsandhuu/youreindebt)** &nbsp;·&nbsp; *web app + chrome extension*
-> ↳ because ontario students deserved to know the truth 📢
+**[💸 youre-in-debt](https://github.com/rishamsandhuu/youreindebt)**  ·  *web app + chrome extension*
 
 Shows Ontario students their real debt under 2026 OSAP cuts. Chrome extension detects tuition pages and injects personalized debt impact in real time.
 
@@ -34,8 +32,9 @@ Shows Ontario students their real debt under 2026 OSAP cuts. Chrome extension de
 
 ---
 
-**[⚫ Gomoku AI](https://github.com/rishamsandhuu/gomoku-ai)** &nbsp;·&nbsp; *java · game ai*
-> ↳ it will beat you. don't feel bad about it 🤖
+**[⚫ Gomoku AI](https://github.com/rishamsandhuu/gomoku-ai)**  ·  *java · game ai*
+
+> ↳ it will beat you. don't feel bad about it 
 
 Five-in-a-row with minimax AI that reads the board and plays to win. PvP and PvAI modes.
 
@@ -55,9 +54,9 @@ Five-in-a-row with minimax AI that reads the board and plays to win. PvP and PvA
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishamsandhuu&show_icons=true&hide_border=true&theme=tokyonight)
-&nbsp;
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishamsandhuu&layout=compact&hide_border=true&theme=tokyonight)
+![Streak stats](https://streak-stats.demolab.com?user=rishamsandhuu\&theme=tokyonight\&hide_border=true)
+
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishamsandhuu\&layout=compact\&hide_border=true\&theme=tokyonight)
 
 </div>
 
@@ -65,8 +64,8 @@ Five-in-a-row with minimax AI that reads the board and plays to win. PvP and PvA
 
 <div align="center">
 
-*risham · ontario, ca · always building 🚀*
+*risham · ontario, ca · building now🟤*
 
-[github](https://github.com/rishamsandhuu) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/rishamsandhuu/) &nbsp;·&nbsp; [email](mailto:rishamsandhu01@gmail.com)
+[github](https://github.com/rishamsandhuu)  ·  [linkedin](https://www.linkedin.com/in/rishamsandhuu/)  ·  [email](mailto:rishamsandhu01@gmail.com)
 
 </div>
