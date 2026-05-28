@@ -14,7 +14,7 @@ probably have 3 terminals open right now.
 
 ## ✦ selected work
 
-**[🪨 Pebble](https://github.com/rishamsandhuu/pebble)**  ·  *cross-platform · elderly care*
+**[🪨 Pebble](https://github.com/whatnirja/pebble)**  ·  *cross-platform · elderly care*
 
 > ↳ capstone project — built for the people who need it most 🤍
 
@@ -24,7 +24,7 @@ Secure care platform for seniors, family & caregivers. SOS with live GPS, medica
 
 ---
 
-**[💸 youre-in-debt](https://github.com/rishamsandhuu/youreindebt)**  ·  *web app + chrome extension*
+**[💸 youre-in-debt](https://github.com/whatnirja/youreindebt)**  ·  *web app + chrome extension*
 
 Shows Ontario students their real debt under 2026 OSAP cuts. Chrome extension detects tuition pages and injects personalized debt impact in real time.
 
@@ -32,7 +32,7 @@ Shows Ontario students their real debt under 2026 OSAP cuts. Chrome extension de
 
 ---
 
-**[⚫ Gomoku AI](https://github.com/rishamsandhuu/gomoku-ai)**  ·  *java · game ai*
+**[⚫ Gomoku AI](https://github.com/rishamsandhuu/gomuko)**  ·  *java · game ai*
 
 > ↳ it will beat you. don't feel bad about it 
 
