@@ -1,71 +1,48 @@
 <div align="center">
 
-# 🛠️ full-stack *builder.*
+<img src="./assets/stats.svg" width="620" alt="Contributions in the last year"/>
+
+[github](https://github.com/rishamsandhuu) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/rishamsandhuu/) &nbsp;·&nbsp;
+[email](mailto:rishamsandhu01@gmail.com)
 
 </div>
 
----
+<img src="./assets/hd-about.svg" width="620" alt="about"/>
 
-i make cross-platform apps, ai tools, and real-world games.
-comfortable across the whole stack. always shipping, always learning.
-probably have 3 terminals open right now. 
+> CS grad from George Brown College, based in the GTA.<br>
+> I like building things that actually get used.
 
----
+Working as a web developer, and building on the side. <br>
+Currently working on [Pebble](https://github.com/whatnirja/pebble)<br>
+— a care platform for seniors and the people looking after them, built as my<br>
+capstone for people who genuinely needed it.
 
-## ✦ selected work
+<img src="./assets/hd-stack.svg" width="620" alt="stack"/>
 
-**[🪨 Pebble](https://github.com/whatnirja/pebble)**  ·  *cross-platform · elderly care*
+<samp>typescript &nbsp; kotlin &nbsp; swift &nbsp; react &nbsp; react native &nbsp; gemini api &nbsp; java &nbsp; node.js &nbsp; express &nbsp; mongodb &nbsp; firebase &nbsp; supabase</samp>
 
-> ↳ capstone project — built for the people who need it most 🤍
+<img src="./assets/hd-projects.svg" width="620" alt="projects"/>
 
-Secure care platform for seniors, family & caregivers. SOS with live GPS, medications, appointments, voice-to-text. Role-based access, all in one app.
+**[Pebble](https://github.com/whatnirja/pebble)** &nbsp;·&nbsp; <samp>react native, node.js</samp><br>
+A care app for seniors, their family, and caregivers — SOS with live GPS,<br>
+medication and appointment tracking, hands-free voice-to-text for adding<br>
+tasks and reminders, and role-based access so everyone sees only what they<br>
+need to.
 
-`React Native` `TypeScript` `Node.js` `MongoDB` `Firebase` `Google Maps` `Tesseract OCR` `JWT`
+**[youre-in-debt](https://github.com/whatnirja/youreindebt)** &nbsp;·&nbsp; <samp>typescript, react, supabase pgvector, gemini</samp><br>
+Shows Ontario students the real impact of the 2026 OSAP cuts. A Chrome<br>
+extension flags tuition pages, backed by OpenAI embeddings, Supabase pgvector<br>
+search, and Gemini reasoning over each student's eligibility.
 
----
-
-**[💸 youre-in-debt](https://github.com/whatnirja/youreindebt)**  ·  *web app + chrome extension*
-
-Shows Ontario students their real debt under 2026 OSAP cuts. Chrome extension detects tuition pages and injects personalized debt impact in real time.
-
-`React` `TypeScript` `Supabase` `Gemini API` `Firebase` `Chrome Extensions` `Tailwind`
-
----
-
-**[⚫ Gomoku AI](https://github.com/rishamsandhuu/gomuko)**  ·  *java · game ai*
-
-> ↳ it will beat you. don't feel bad about it 
-
-Five-in-a-row with minimax AI that reads the board and plays to win. PvP and PvAI modes.
-
-`Java` `Minimax Algorithm` `Game Logic`
-
----
-
-## ⚡ tech
-
-**reach for first →** `TypeScript` `Kotlin` `Swift` `React` `React Native` `Gemini API`
-
-`Java` `Android` `iOS` `Node.js` `Express` `MongoDB` `Firebase` `Supabase` `Google Maps SDK` `Tesseract OCR` `JWT`
-
----
-
-## 📊 github stats
+<img src="./assets/hd-stats.svg" width="620" alt="stats"/>
 
 <div align="center">
 
-![Streak stats](https://streak-stats.demolab.com?user=rishamsandhuu\&theme=tokyonight\&hide_border=true)
+<img src="./assets/streak.svg" width="620" alt="Current and longest streak"/>
 
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishamsandhuu\&layout=compact\&hide_border=true\&theme=tokyonight)
+<img src="./assets/langs.svg" width="620" alt="Top languages by bytes and by repo"/>
 
-</div>
-
----
-
-<div align="center">
-
-*risham · ontario, ca · building now🟤*
-
-[github](https://github.com/rishamsandhuu)  ·  [linkedin](https://www.linkedin.com/in/rishamsandhuu/)  ·  [email](mailto:rishamsandhu01@gmail.com)
+<img src="./assets/year.svg" width="620" alt="The last year, one character per day"/>
 
 </div>
